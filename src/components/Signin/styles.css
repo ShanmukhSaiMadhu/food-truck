@@ -1,0 +1,9 @@
+.signin-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFCB45;
+    width: 9rem;
+    border-radius: 2rem;
+    height: 3rem;
+}
