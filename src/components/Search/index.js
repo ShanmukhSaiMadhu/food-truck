@@ -8,7 +8,7 @@ function Search() {
   return (
     <Tooltip title="Search">
       <IconButton>
-        <SearchIcon />
+        <SearchIcon size='small' sx={{stroke: '#1D1D1D', height: '24px', width: '24px'}} />
       </IconButton>
     </Tooltip>
   )
